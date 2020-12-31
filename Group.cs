@@ -43,9 +43,6 @@ namespace group
             return result.ToString();
         }
 
-
-
-
     }
 }
 
